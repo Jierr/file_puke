@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1438030963 source:g:\development\c\file_puke\main.cpp
+	<stdio.h>
+	<string.h>
+	"genUse.h"
+
+1406242357 c:\toolkits\generic\include\genuse.h
+	<stdio.h>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
